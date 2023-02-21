@@ -3,7 +3,7 @@
 title: Santiago Canete
 description: Ph.D. Candidate in Rehabilitation Robotics | Temple University, Philadelphia, PA, 19122 
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /santiagocanete.github.io #name of GitHub repository
 url: "santiagocanete.com" #custom url to be used instead of GitHub repository
 email: santiago.canete@temple.edu
 
@@ -13,7 +13,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "https://www.linkedin.com/in/santiago-canete-riaza-7a5538a6/"
+linkedin: "santiago-canete-riaza-7a5538a6/"
 
 # Markdown
 highlighter: rouge
